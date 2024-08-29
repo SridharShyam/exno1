@@ -79,7 +79,6 @@ sns.boxenplot(data=new_df)
 sns.scatterplot(data=new_df)
 ```
 ![image](https://github.com/user-attachments/assets/10b0d5f2-0c80-4025-bb32-cfebe76e473f)
-![image](https://github.com/user-attachments/assets/7e9a3368-b731-4e01-b724-89b622680f01)
 ```
 Q1=np.percentile(new_df,25)
 Q3=np.percentile(new_df,75)
